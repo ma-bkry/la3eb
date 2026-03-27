@@ -431,7 +431,7 @@ nav .links ul li a {
     color: white;
 }
 
-.download>img {
+.download img.logo {
     width: 20%;
     border-radius: 5px;
 }
